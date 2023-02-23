@@ -1,4 +1,4 @@
-# criaca de usuário com form HTML
+# criação de usuário com form HTML
 Expandindo a ideia do repositório "criacao_de_usuarios", utilizei um form para cadastrar um usuário na memória do navegador. Aqui além de armazenar os dados em algum lugar, também separei as funções do JS em diferentes arquivos para a melhor organização do projeto.
 Além disso uma outra melhoria foi na condicional que consulta nosso array, que agora verifica três possibilidades:
 - Usuario e senha correto
